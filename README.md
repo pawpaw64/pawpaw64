@@ -2,11 +2,11 @@
 I'm an **undergraduate Computer Science & Engineering student** at  
 **United International University, Dhaka** 🎓💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F5FF&size=28&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Hi+this+is+🎮+Pawpaw+💻✨;Always+Learning+New+Tech!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F5FF&size=28&center=true&vCenter=true&width=900&lines=!;Hi+this+is+🎮+Pawpaw+💻✨;Always+Learning+New+Tech!)](https://git.io/typing-svg)
 
 ---
 
-# 🎮 Press Start
+<!--# 🎮 Press Start-->
 <!-- <p align="center">
   <img src="https://i.imgur.com/04O9ZzL.gif" width="500"/>
 </p> -->
@@ -21,7 +21,7 @@ I'm an **undergraduate Computer Science & Engineering student** at
 
 ---
 
-## 🎨 Pixel Game Aesthetic Divider
+<!--## 🎨 Pixel Game Aesthetic Divider
 <!-- <p align="center">
   <img src="https://i.imgur.com/1dZr4fD.gif" width="500"/>
 </p> -->
@@ -52,7 +52,7 @@ I'm an **undergraduate Computer Science & Engineering student** at
 
 ---
 
-# 🧩 Pixel Game Icons
+<!--# 🧩 Pixel Game Icons
 <!-- <p align="center">
   <img src="https://i.imgur.com/0y8Ftya.gif" width="70"/>
   <img src="https://i.imgur.com/4LVe1xR.gif" width="70"/>
@@ -68,7 +68,7 @@ I'm an **undergraduate Computer Science & Engineering student** at
 
 ---
 
-# 🎮 Loading…
+<!--# 🎮 Loading…
 <!-- <p align="center">
   <img src="https://i.imgur.com/llF5iyg.gif" width="400"/>
 </p> -->
