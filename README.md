@@ -53,11 +53,11 @@ I'm an **undergraduate Computer Science & Engineering student** at
 ---
 
 # 🧩 Pixel Game Icons
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/0y8Ftya.gif" width="70"/>
   <img src="https://i.imgur.com/4LVe1xR.gif" width="70"/>
   <img src="https://i.imgur.com/NZZzj0E.gif" width="70"/>
-</p>
+</p> -->
 
 ---
 
@@ -69,9 +69,9 @@ I'm an **undergraduate Computer Science & Engineering student** at
 ---
 
 # 🎮 Loading…
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/llF5iyg.gif" width="400"/>
-</p>
+</p> -->
 
 ---
 
