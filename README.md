@@ -58,16 +58,6 @@ I'm an **undergraduate Computer Science & Engineering student** at
 
 
 
-# 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pawpaw64&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=false&custom_title=My%20Actual%20GitHub%20Stats&token=${{ secrets.GH_TOKEN }})
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Pawpaw64&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF7200&ring=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&token=${{ secrets.GH_TOKEN }})
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawpaw64&layout=compact&theme=dark&hide_border=false&count_private=true&include_all_commits=true&token=${{ secrets.GH_TOKEN }})
-
-
-
-
 <!--# 🎮 Loading…
 <!-- <p align="center">
   <img src="https://i.imgur.com/llF5iyg.gif" width="400"/>
@@ -80,6 +70,6 @@ I'm an **undergraduate Computer Science & Engineering student** at
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="500"/>
 </p>
 
