@@ -4,14 +4,12 @@ I'm an **undergraduate Computer Science & Engineering student** at
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F5FF&size=28&center=true&vCenter=true&width=900&lines=!;Hi+this+is+🎮+Pawpaw+💻✨;Always+Learning+New+Tech!)](https://git.io/typing-svg)
 
----
 
 <!--# 🎮 Press Start-->
 <!-- <p align="center">
   <img src="https://i.imgur.com/04O9ZzL.gif" width="500"/>
 </p> -->
 
----
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tabassum.sumaiya.58) 
@@ -19,14 +17,13 @@ I'm an **undergraduate Computer Science & Engineering student** at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tabassum-sumaiya-951b91254/)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Tsum64@gmail.com)
 
----
 
 <!--## 🎨 Pixel Game Aesthetic Divider
 <!-- <p align="center">
   <img src="https://i.imgur.com/1dZr4fD.gif" width="500"/>
 </p> -->
 
----
+
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
@@ -50,7 +47,7 @@ I'm an **undergraduate Computer Science & Engineering student** at
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
----
+
 
 <!--# 🧩 Pixel Game Icons
 <!-- <p align="center">
@@ -59,26 +56,25 @@ I'm an **undergraduate Computer Science & Engineering student** at
   <img src="https://i.imgur.com/NZZzj0E.gif" width="70"/>
 </p> -->
 
----
+
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Pawpaw64&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pawpaw64&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawpaw64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+
 
 <!--# 🎮 Loading…
 <!-- <p align="center">
   <img src="https://i.imgur.com/llF5iyg.gif" width="400"/>
 </p> -->
 
----
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="150"/>
